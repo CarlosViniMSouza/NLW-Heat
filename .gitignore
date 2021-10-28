@@ -1,15 +1,19 @@
-# How to install dependencies:
+# How to install all dependencies:
 
 # 1 - yarn init -y
 # 2 - yarn add express
 # 3 - yarn add -D @types/express typescript ts-node-dev
 # 4 - yarn add prisma -D
 # 5 - yarn add dotenv
+# 6 - yarn add axios
+# 7 - yarn add @types/axios -D
+# 8 - yarn add jsonwebtoken
+# 9 - yarn add @types/jsonwebtoken -D
 
 node_modules
 
 yarn.lock
 # yarn lockfile v1 --> All dependencies description installed
 
-.env
+env
 # file with sensible information
