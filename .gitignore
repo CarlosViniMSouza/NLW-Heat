@@ -15,5 +15,8 @@ node_modules
 yarn.lock
 # yarn lockfile v1 --> All dependencies description installed
 
-env
+.env
 # file with sensible information
+
+yarn-error.log
+# desnecessary file
