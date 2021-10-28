@@ -4,8 +4,12 @@
 # 2 - yarn add express
 # 3 - yarn add -D @types/express typescript ts-node-dev
 # 4 - yarn add prisma -D
+# 5 - yarn add dotenv
 
 node_modules
 
 yarn.lock
 # yarn lockfile v1 --> All dependencies description installed
+
+.env
+# file with sensible information
