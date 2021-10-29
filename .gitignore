@@ -12,11 +12,11 @@
 
 node_modules
 
-yarn.lock
-# yarn lockfile v1 --> All dependencies description installed
-
 .env
 # file with sensible information
+
+yarn.lock
+# yarn lockfile v1 --> All dependencies description installed
 
 yarn-error.log
 # desnecessary file
