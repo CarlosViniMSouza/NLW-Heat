@@ -15,6 +15,9 @@
     "strict": false,
 
     /* Completeness */
-    "skipLibCheck": true
+    "skipLibCheck": true,
+
+    /* Libs load */
+    "typeRoots": ["./src/@types", "node_modules/@types"]
   }
 }
